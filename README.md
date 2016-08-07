@@ -1,2 +1,2 @@
-# Cricket-Informer
-Scrapes ball by ball data from a live cricket match and notifies the user of how eventful the match is
+# Cricket-Ball-Radar
+Inspired by the Dragon Radar in the Dragon Ball manga series, this scrapes ball by ball data from a live cricket match and notifies the user of how eventful the match is by sending the user a notification SMS every wicket, every half century and every century, using the twilio API. This is really helpful for cricket buffs who don't have a television available in front of them and are out for some work. Once the user gets back home, he can also view a graph plotting every text that was sent during the match, thus showing how eventful the match was.
